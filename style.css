@@ -107,8 +107,8 @@ main h2:hover {
 main div.image1 {
   margin-left: auto;
   margin-right: auto;
-  width: 25vw;
-  height: 30vh;
+  width: 27vw;
+  height: 32vh;
   background-image: url("https://cdn.pixabay.com/photo/2015/06/08/15/18/steering-wheel-801994_960_720.jpg");
   background-size: cover;
 }
@@ -116,8 +116,8 @@ main div.image1 {
 main div.image2 {
   margin-left: auto;
   margin-right: auto;
-  width: 25vw;
-  height: 30vh;
+  width: 27vw;
+  height: 32vh;
   background-image: url("https://cdn.pixabay.com/photo/2020/07/04/15/50/old-5370024_960_720.jpg");
   background-size: cover;
 }
@@ -125,25 +125,25 @@ main div.image2 {
 main div.image3 {
   margin-left: auto;
   margin-right: auto;
-  width: 25vw;
-  height: 30vh;
+  width: 27vw;
+  height: 32vh;
   background-image: url("https://cdn.pixabay.com/photo/2018/09/20/22/23/auto-repair-3691962_960_720.jpg");
   background-size: cover;
 }
 
 main div.image1:hover {
   cursor: pointer;
-  width: 27vw;
+  width: 29vw;
 }
 
 main div.image2:hover {
   cursor: pointer;
-  width: 27vw;
+  width: 29vw;
 }
 
 main div.image3:hover {
   cursor: pointer;
-  width: 27vw;
+  width: 29vw;
 }
 
 footer {
