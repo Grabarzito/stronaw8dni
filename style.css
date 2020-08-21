@@ -134,16 +134,22 @@ main div.image3 {
 main div.image1:hover {
   cursor: pointer;
   width: 29vw;
+  opacity: 0.8;
+  transition: 0.4s
 }
 
 main div.image2:hover {
   cursor: pointer;
   width: 29vw;
+  opacity: 0.8;
+  transition: 0.4s
 }
 
 main div.image3:hover {
   cursor: pointer;
   width: 29vw;
+  opacity: 0.8;
+  transition: 0.4s
 }
 
 footer {
